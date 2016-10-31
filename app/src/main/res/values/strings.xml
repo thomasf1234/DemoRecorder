@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoRecorder</string>
+    <string name="debug_dialog_title">Debug</string>
+    <string name="cancel_message">Cancel</string>
+    <string name="zero_seconds">0:00</string>
+</resources>
